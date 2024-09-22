@@ -6,4 +6,5 @@
 #EXT-X-DISCONTINUITY-SEQUENCE:2
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
+http://anything.ev20.net:8080/play/live.php?mac=00:1A:79:59:A6:84&stream=611815&extension=ts
 https://zeestb.cdn77.icu/love4all.php?id=333131&extension=ts
